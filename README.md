@@ -1,2 +1,2 @@
-# firebase-fundamentals
-Examples and exercises of the course "Firebase Fundamentals" (Pluralsight)
+# Firebase Fundamentals
+Examples and exercises of the course "Firebase Fundamentals" (Pluralsight).
